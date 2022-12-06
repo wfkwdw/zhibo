@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 ,中央1
+#EXTINF:-1 ,中央1 高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 #EXTINF:-1 ,中央1
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225530/index.m3u8
-#EXTINF:-1 ,中央2
+http://stream.smntv.cn/smtv1/sd/live.m3u8
+#EXTINF:-1 ,中央2 高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 ,中央2
+http://124.220.17.172/as.php?id=2
 #EXTINF:-1 ,中央3
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 ,中央4
+http://124.220.17.172/as.php?id=3
+#EXTINF:-1 ,中央4 高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
 #EXTINF:-1 ,中央5
 http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8
@@ -18,87 +20,139 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 ,中央5
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 ,中央5
-http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
-#EXTINF:-1 ,中央5+
-http://120.221.2.42:8089/PLTV/88888888/224/3221225781/index.m3u8
-#EXTINF:-1 ,中央5+
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 ,中央6
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000006/index.m3u8
-#EXTINF:-1 ,中央7
+#EXTINF:-1 ,中央5+ 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 ,中央7 高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
 #EXTINF:-1 ,中央8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000008/index.m3u8
-#EXTINF:-1 ,中央9
+#EXTINF:-1 ,中央9 高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
-#EXTINF:-1 ,中央10
+#EXTINF:-1 ,中央10 高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
 #EXTINF:-1 ,中央11
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000011/index.m3u8
-#EXTINF:-1 ,中央12
+#EXTINF:-1 ,中央12 高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
 #EXTINF:-1 ,中央13
-http://117.169.120.140:8080/live/cctv-13/.m3u8
-#EXTINF:-1 ,中央14
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 ,中央13
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 ,中央13-720p
+http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:-1 ,中央14 高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 #EXTINF:-1 ,中央15
 http://39.137.76.32:8089/00/SNM/CHANNEL00000015/index.m3u8
+#EXTINF:-1 ,中央17 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 #EXTINF:-1 ,中央17
 http://223.99.189.25:8089/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000303/index.m3u8
-#EXTINF:-1 ,济南新闻综合高清
+#EXTINF:-1 ,山东齐鲁 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 ,山东体育 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 ,山东公共 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 ,山东农科 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 ,山东少儿 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
+#EXTINF:-1 ,山东影视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 ,山东生活 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 ,山东综艺 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 ,山东教育卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 ,东南卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1 ,东方卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 ,北京卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 ,天津卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 ,安徽卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 ,山东卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
+#EXTINF:-1 ,广东卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 ,江苏卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 ,河北卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
+#EXTINF:-1 ,浙江卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 ,深圳卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 ,湖北卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1 ,湖南卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 ,贵州卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 ,辽宁卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 ,黑龙江卫视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1 ,济南新闻综合 高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
-#EXTINF:-1 ,泰安综合高清
+#EXTINF:-1 ,临沂综合 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000120/index.m3u8
+#EXTINF:-1 ,兖州新闻 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
+#EXTINF:-1 ,嘉祥新闻综合 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001016/index.m3u8
+#EXTINF:-1 ,夏津公共 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001070/index.m3u8
+#EXTINF:-1 ,夏津综合 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001069/index.m3u8
+#EXTINF:-1 ,巨野新闻 6M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
+#EXTINF:-1 ,平原新闻 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
+#EXTINF:-1 ,广饶新闻综合 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001043/index.m3u8
+#EXTINF:-1 ,德州公共 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000207/index.m3u8
+#EXTINF:-1 ,德州新闻综合 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000206/index.m3u8
+#EXTINF:-1 ,武城新闻综合 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001059/index.m3u8
+#EXTINF:-1 ,武城综艺影视 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001060/index.m3u8
+#EXTINF:-1 ,泰安综合 高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
+#EXTINF:-1 ,淄博公共 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001037/index.m3u8
+#EXTINF:-1 ,淄博新闻 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
+#EXTINF:-1 ,淄博生活 3M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000294/index.m3u8
+#EXTINF:-1 ,禹城综合 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001061/index.m3u8
+#EXTINF:-1 ,禹城综艺 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
+#EXTINF:-1 ,肥城综合 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001039/index.m3u8
+#EXTINF:-1 ,茌平综合 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001048/index.m3u8
+#EXTINF:-1 ,邹城新闻综合 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001038/index.m3u8
+#EXTINF:-1 ,邹平新闻 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
+#EXTINF:-1 ,郓城新闻 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
+#EXTINF:-1 ,齐河新闻 高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
 #EXTINF:-1 ,泰安公共
 http://39.137.76.32:8089/00/SNM/CHANNEL00000270/index.m3u8
-#EXTINF:-1 ,山东卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
-#EXTINF:-1 ,齐鲁频道高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
-#EXTINF:-1 ,山东生活高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
-#EXTINF:-1 ,山东公共高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
-#EXTINF:-1 ,山东综艺高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
-#EXTINF:-1 ,山东影视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
-#EXTINF:-1 ,山东体育高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
-#EXTINF:-1 ,山东农科高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
-#EXTINF:-1 ,山东教育高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
-#EXTINF:-1 ,北京卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
-#EXTINF:-1 ,天津卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
-#EXTINF:-1 ,河北卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
-#EXTINF:-1 ,江苏卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
-#EXTINF:-1 ,东方卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
-#EXTINF:-1 ,浙江卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
-#EXTINF:-1 ,安徽卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
-#EXTINF:-1 ,东南卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
-#EXTINF:-1 ,广东卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
-#EXTINF:-1 ,深圳卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
-#EXTINF:-1 ,湖北卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
-#EXTINF:-1 ,湖南卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
-#EXTINF:-1 ,辽宁卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
-#EXTINF:-1 ,黑龙江卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
-#EXTINF:-1 ,贵州卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
 #EXTINF:-1 ,河南卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000037/index.m3u8
 #EXTINF:-1 ,吉林卫视
@@ -129,22 +183,6 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000044/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000045/index.m3u8
 #EXTINF:-1 ,内蒙古卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000040/index.m3u8
-#EXTINF:-1 ,凤凰卫视中文
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 ,凤凰卫视资讯
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 ,香港台
-http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 ,山东少儿
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
-#EXTINF:-1 ,动漫秀场
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
-#EXTINF:-1 ,海看少儿
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000402/index.m3u8
-#EXTINF:-1 ,少儿动漫高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002017/index.m3u8
-#EXTINF:-1 ,动画
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000625/index.m3u8
 #EXTINF:-1 ,金鹰卡通
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000047/index.m3u8
 #EXTINF:-1 ,卡酷动画
@@ -153,97 +191,5 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000048/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
 #EXTINF:-1 ,炫动卡通
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
-#EXTINF:-1 ,少儿动画
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000605/index.m3u8
-#EXTINF:-1 ,爱玩具
-http://117.148.187.49:80/wh7f454c46tw2353157700_-468925800/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8?icpid=88888888&from=35&rrsiplist=39.134.176.217&popid=35&prioritypopid=35&RTS=1580893915&hms_devid=1644&online=1580893915
-#EXTINF:-1 ,早教
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000627/index.m3u8
-#EXTINF:-1 ,海看电竞
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000408/index.m3u8
-#EXTINF:-1 ,热播剧场
-http://39.137.76.32:8089/00/SNM/CHANNEL00000608/index.m3u8
-#EXTINF:-1 ,魅力时尚
-http://39.137.76.32:8089/00/SNM/CHANNEL00000609/index.m3u8
-#EXTINF:-1 ,家政
-http://39.137.76.32:8089/00/SNM/CHANNEL00000610/index.m3u8
-#EXTINF:-1 ,电子体育
-http://39.137.76.32:8089/00/SNM/CHANNEL00000611/index.m3u8
-#EXTINF:-1 ,人物频道
-http://39.137.76.32:8089/00/SNM/CHANNEL00000612/index.m3u8
-#EXTINF:-1 ,世界地理
-http://39.137.76.32:8089/00/SNM/CHANNEL00000615/index.m3u8
-#EXTINF:-1 ,女性时尚
-http://39.137.76.32:8089/00/SNM/CHANNEL00000616/index.m3u8
-#EXTINF:-1 ,风云剧场
-http://39.137.76.32:8089/00/SNM/CHANNEL00000617/index.m3u8
-#EXTINF:-1 ,央视文化
-http://39.137.76.32:8089/00/SNM/CHANNEL00000621/index.m3u8
-#EXTINF:-1 ,古装剧场
-http://39.137.76.32:8089/00/SNM/CHANNEL00000622/index.m3u8
-#EXTINF:-1 ,解密
-http://39.137.76.32:8089/00/SNM/CHANNEL00000624/index.m3u8
-#EXTINF:-1 ,台球
-http://39.137.76.32:8089/00/SNM/CHANNEL00000628/index.m3u8
-#EXTINF:-1 ,现代女性
-http://39.137.76.32:8089/00/SNM/CHANNEL00000629/index.m3u8
-#EXTINF:-1 ,武术世界
-http://39.137.76.32:8089/00/SNM/CHANNEL00000634/index.m3u8
-#EXTINF:-1 ,家庭影院
-http://39.137.76.32:8089/00/SNM/CHANNEL00000635/index.m3u8
-#EXTINF:-1 ,国学频道
-http://39.137.76.32:8089/00/SNM/CHANNEL00000636/index.m3u8
-#EXTINF:-1 ,爱生活
-http://39.137.76.32:8089/00/SNM/CHANNEL00000639/index.m3u8
-#EXTINF:-1 ,音乐现场
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000613/index.m3u8
-#EXTINF:-1 ,城市剧场
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000614/index.m3u8
-#EXTINF:-1 ,探索纪实
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002006/index.m3u8
-#EXTINF:-1 ,漫游世界
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002007/index.m3u8
-#EXTINF:-1 ,法治天地
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
-#EXTINF:-1 ,全纪实高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
-#EXTINF:-1 ,金色频道高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
-#EXTINF:-1 ,生活时尚高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
-#EXTINF:-1 ,海看生活
-http://39.137.76.32:8089/00/SNM/CHANNEL00000202/index.m3u8
-#EXTINF:-1 ,海看教育
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000204/index.m3u8
-#EXTINF:-1 ,海看健康
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000401/index.m3u8
-#EXTINF:-1 ,山东少儿高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
-#EXTINF:-1 ,喜剧影院
-http://39.137.76.32:8089/00/SNM/CHANNEL00000602/index.m3u8
-#EXTINF:-1 ,喜剧影院
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000602/index.m3u8
-#EXTINF:-1 ,动作影院
-http://39.137.76.32:8089/00/SNM/CHANNEL00000603/index.m3u8
-#EXTINF:-1 ,动作影院
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000603/index.m3u8
-#EXTINF:-1 ,IPTV经典电影
-http://39.137.76.32:8089/00/SNM/CHANNEL00000604/index.m3u8
-#EXTINF:-1 ,IPTV相声小品
-http://39.137.76.32:8089/00/SNM/CHANNEL00000606/index.m3u8
 #EXTINF:-1 ,财富天下
 http://39.137.76.32:8089/00/SNM/CHANNEL00000607/index.m3u8
-#EXTINF:-1 ,IPTV热播剧场
-http://39.137.76.32:8089/00/SNM/CHANNEL00000608/index.m3u8
-#EXTINF:-1 ,经典电影
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000604/index.m3u8
-#EXTINF:-1 ,海看剧场
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000403/index.m3u8
-#EXTINF:-1 ,精彩影视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
-#EXTINF:-1 ,亚洲影院
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002005/index.m3u8
-#EXTINF:-1 ,海看热播高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000405/index.m3u8
-#EXTINF:-1 ,海看大片高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000407/index.m3u8
